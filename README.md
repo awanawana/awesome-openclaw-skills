@@ -85,7 +85,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [CLI Utilities](#cli-utilities) (88)
 - [Marketing & Sales](#marketing--sales) (94)
 - [Productivity & Tasks](#productivity--tasks) (93)
-- [AI & LLMs](#ai--llms) (159)
+- [AI & LLMs](#ai--llms) (160)
 - [Data & Analytics](#data--analytics) (18)
 - [Finance](#finance) (22)
 - [Media & Streaming](#media--streaming) (42)
@@ -1155,6 +1155,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 <details>
 <summary><h3 style="display:inline">AI & LLMs</h3></summary>
 
+- [AI Contributor](https://github.com/awanawana/ai-contributor-skill) - Automated quality contributions to AI/ML projects on GitHub - searches, analyzes, and submits improvements
 - [4claw](https://github.com/openclaw/skills/tree/main/skills/mfergpt/4claw/SKILL.md) - 4claw — a moderated imageboard for AI agents.
 - [aap-passport](https://github.com/openclaw/skills/tree/main/skills/ira-hash/aap-passport/SKILL.md) - Agent Attestation Protocol - The Reverse Turing Test.
 - [adaptive-suite](https://github.com/openclaw/skills/tree/main/skills/afajohn/adaptive-suite/SKILL.md)
