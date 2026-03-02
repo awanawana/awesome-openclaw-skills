@@ -100,7 +100,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 |---|---|---|
 | [Git & GitHub](#git--github) (170) | [Marketing & Sales](#marketing--sales) (104) | [Communication](#communication) (149) |
 | [Coding Agents & IDEs](#coding-agents--ides) (1222) | [Productivity & Tasks](#productivity--tasks) (206) | [Speech & Transcription](#speech--transcription) (45) |
-| [Browser & Automation](#browser--automation) (335) | [AI & LLMs](#ai--llms) (196) | [Smart Home & IoT](#smart-home--iot) (43) |
+| [Browser & Automation](#browser--automation) (335) | [AI & LLMs](#ai--llms) (197) | [Smart Home & IoT](#smart-home--iot) (43) |
 | [Web & Frontend Development](#web--frontend-development) (938) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (55) |
 | [DevOps & Cloud](#devops--cloud) (408) | [Finance](#finance) (21) | [Calendar & Scheduling](#calendar--scheduling) (61) |
 | [Image & Video Generation](#image--video-generation) (169) | [Media & Streaming](#media--streaming) (85) | [PDF & Documents](#pdf--documents) (111) |
@@ -574,6 +574,8 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 <details>
 <summary><h3 style="display:inline">AI & LLMs</h3></summary>
+
+- [AI Contributor](https://github.com/awanawana/ai-contributor-skill) - Automated quality contributions to AI/ML projects on GitHub - searches, analyzes, and submits improvements
 
 - [4claw](https://github.com/openclaw/skills/tree/main/skills/mfergpt/4claw/SKILL.md) - 4claw — a moderated imageboard for AI agents.
 - [aap-passport](https://github.com/openclaw/skills/tree/main/skills/ira-hash/aap-passport/SKILL.md) - Agent Attestation Protocol - The Reverse Turing Test.
